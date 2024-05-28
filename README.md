@@ -4,16 +4,26 @@ CSC300 - Practical ML Task 3 Final Assessment
 
 ## Course Learning Outcomes (CLO) Assessed
 
-- CLO #1 Explain common models and processing pipelines in machine learning applications
-- CLO #2 Apply machine learning algorithms to design solutions for real problems
-- CLO #3 Compare benefits/drawbacks of different models and algorithms regarding real use cases
-- CLO #4 Analyse results and solutions to verify their correctness and impact on decision making
-- CLO #5 Report model selection, implementation, and evaluation in written communication.
-Assessment Criteria and Rubric
-This assessment is about data manipulation, preparing pictures to be trained by a convolutional neural network model and, train a CNN model using also transfer learning. 
+|Class|Description|
+|---|---|
+|CLO #1|Explain common models and processing pipelines in machine learning applications|
+|CLO #2|Apply machine learning algorithms to design solutions for real problems|
+|CLO #3|Compare benefits/drawbacks of different models and algorithms regarding real use cases|
+|CLO #4|Analyse results and solutions to verify their correctness and impact on decision making|
+|CLO #5|Report model selection, implementation, and evaluation in written communication.|
+
+## Assessment Criteria and Rubric
+
+This assessment is about data manipulation, preparing pictures to be trained by a convolutional neural network model and, train a CNN model using also transfer learning.
+
+|Criteria|Description|Pts|
+|---|---|---|
+|**EDA**|You have to show you understand your dataset, through EDA. Conclusions and implementations at the data preprocessing and modelling, should be aligned with your EDA phase.|10|
+|**Data Preprocessing**|Implementations at the modelling should be aligned with your data preprocessing phase|10|
+|**Modelling**|At a minimum bar for a pass mark, your model should work. Refined implementations for above pass mark.|30|
+|**Reasoning**|You should include why you took the decision to do 'A' instead of 'B', whenever you are faced with something that can be achievable using different approaches. This includes, but not limited to, library usage, methods, logic.|50|
 
 The criteria are clearly defined on this page, in the grading section.
-
 
 ## Task Instructions
 
@@ -28,13 +38,14 @@ The criteria are clearly defined on this page, in the grading section.
 
 > **Note**: This dataset is anonymised, having 500 samples of 5 classes, totalling 2500 image files.
 
-Reasoning is not a description of the code, as the code should be readable by default. Reasoning is explaining the thought process and why you achieve a certain outcome, things you could try to get better, etc.
+> Reasoning is not a description of the code, as the code should be readable by default. Reasoning is explaining the thought process and why you achieve a certain outcome, things you could try to get better, etc.
 
-You cannot use libraries not taught during the course for this assignment. This will result in forfeiting (from marking perspective) the section of the code with such libraries.
+> *You cannot use libraries not taught during the course* for this assignment. This will result in forfeiting (from marking perspective) the section of the code with such libraries.
 
 
 ## Resources
-The Modules 06,07,11,12 provides enough resources to get you a reasonably good model (accuracy between 30-50%). 
+
+The Modules 06,07,11,12 provides enough resources to get you a reasonably good model (accuracy between 30-50%).
 
 > **Note:** For a higher accuracy model you will need to research yourself on how to optimize and fine-tune the model.
 
