@@ -26,6 +26,12 @@ A PDF file (.pdf), with your reasoning and explanations on why you decided to do
 
 ## Spectogram CNN model
 
+### First approach
+
+### Extra Exploring
+
+![ML exploring](image.png)
+
 ### Analysis
 
 ### Results
