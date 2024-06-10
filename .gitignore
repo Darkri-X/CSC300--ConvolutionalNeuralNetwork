@@ -1,4 +1,4 @@
-Sound_Spectrogram_Classes/
+src/spectrograms/
 *.h5
 *.log
 *.csv

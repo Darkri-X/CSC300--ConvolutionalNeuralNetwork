@@ -27,7 +27,7 @@ The criteria are clearly defined on this page, in the grading section.
 
 ## Task Instructions
 
-### Uncompress dataset to:
+### Un-compress dataset to
 
 1. Read the dataset images.
 2. Transform them accordingly in preparation for modelling.
